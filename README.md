@@ -11,3 +11,8 @@ MacSpoof for Hcf2023.top
 4.你的安装已经完成，访问hcf2023.top看下效果
 <img width="937" height="575" alt="{5B922864-82BD-4E2A-9815-5CF0283F4873}" src="https://github.com/user-attachments/assets/f9df2737-655c-4185-845e-a3105e7fb798" />
 
+
+- 请勿同时启用多个环境伪装脚本，以免冲突。
+- 首次使用建议刷新页面（Ctrl+F5 / Cmd+Shift+R）确保脚本生效。
+- 本工具仅用于技术研究与学习，请遵守目标网站使用条款。
+
